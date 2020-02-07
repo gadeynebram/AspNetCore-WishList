@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 using Microsoft.EntityFrameworkCore;
 
-using WishList.Model;
+using WishList.Models;
 
 namespace WishList.Data
 {
